@@ -1,0 +1,90 @@
+true_class,predicted_class,confidence,file_name
+Very mild Dementia,Very mild Dementia,98.34307432174683,OAS1_0003_MR1_mpr-1_103.jpg
+Very mild Dementia,Very mild Dementia,64.48532342910767,OAS1_0003_MR1_mpr-1_117.jpg
+Very mild Dementia,Very mild Dementia,60.29154062271118,OAS1_0003_MR1_mpr-1_116.jpg
+Very mild Dementia,Very mild Dementia,97.9947030544281,OAS1_0003_MR1_mpr-1_102.jpg
+Very mild Dementia,Very mild Dementia,98.93965125083923,OAS1_0003_MR1_mpr-1_114.jpg
+Very mild Dementia,Very mild Dementia,99.09517765045166,OAS1_0003_MR1_mpr-1_100.jpg
+Very mild Dementia,Non Demented,97.23098278045654,OAS1_0003_MR1_mpr-1_128.jpg
+Very mild Dementia,Non Demented,98.42153191566467,OAS1_0003_MR1_mpr-1_129.jpg
+Very mild Dementia,Very mild Dementia,99.27075505256653,OAS1_0003_MR1_mpr-1_101.jpg
+Very mild Dementia,Very mild Dementia,96.46981358528137,OAS1_0003_MR1_mpr-1_115.jpg
+Very mild Dementia,Very mild Dementia,99.27258491516113,OAS1_0003_MR1_mpr-1_111.jpg
+Very mild Dementia,Very mild Dementia,97.84009456634521,OAS1_0003_MR1_mpr-1_105.jpg
+Very mild Dementia,Very mild Dementia,99.4156002998352,OAS1_0003_MR1_mpr-1_104.jpg
+Very mild Dementia,Very mild Dementia,99.16894435882568,OAS1_0003_MR1_mpr-1_110.jpg
+Very mild Dementia,Very mild Dementia,82.0600152015686,OAS1_0003_MR1_mpr-1_106.jpg
+Very mild Dementia,Very mild Dementia,99.00277256965637,OAS1_0003_MR1_mpr-1_112.jpg
+Very mild Dementia,Very mild Dementia,99.79737401008606,OAS1_0003_MR1_mpr-1_113.jpg
+Very mild Dementia,Very mild Dementia,99.06044602394104,OAS1_0003_MR1_mpr-1_107.jpg
+Very mild Dementia,Dementia,90.97520709037781,OAS1_0003_MR1_mpr-1_122.jpg
+Very mild Dementia,Dementia,92.66103506088257,OAS1_0003_MR1_mpr-1_123.jpg
+Very mild Dementia,Non Demented,41.14948511123657,OAS1_0003_MR1_mpr-1_135.jpg
+Very mild Dementia,Dementia,72.41398692131042,OAS1_0003_MR1_mpr-1_121.jpg
+Very mild Dementia,Very mild Dementia,99.41657781600952,OAS1_0003_MR1_mpr-1_109.jpg
+Very mild Dementia,Very mild Dementia,99.4885504245758,OAS1_0003_MR1_mpr-1_108.jpg
+Very mild Dementia,Very mild Dementia,51.88835263252258,OAS1_0003_MR1_mpr-1_120.jpg
+Very mild Dementia,Non Demented,50.10990500450134,OAS1_0003_MR1_mpr-1_134.jpg
+Very mild Dementia,Very mild Dementia,58.307433128356934,OAS1_0003_MR1_mpr-1_118.jpg
+Very mild Dementia,Non Demented,90.74806571006775,OAS1_0003_MR1_mpr-1_130.jpg
+Very mild Dementia,Dementia,40.284889936447144,OAS1_0003_MR1_mpr-1_124.jpg
+Very mild Dementia,Dementia,50.31648278236389,OAS1_0003_MR1_mpr-1_125.jpg
+Very mild Dementia,Non Demented,68.45890879631042,OAS1_0003_MR1_mpr-1_131.jpg
+Very mild Dementia,Dementia,73.1627345085144,OAS1_0003_MR1_mpr-1_119.jpg
+Very mild Dementia,Non Demented,95.7617998123169,OAS1_0003_MR1_mpr-1_127.jpg
+Very mild Dementia,Dementia,78.40767502784729,OAS1_0003_MR1_mpr-1_133.jpg
+Very mild Dementia,Dementia,57.31101632118225,OAS1_0003_MR1_mpr-1_132.jpg
+Very mild Dementia,Non Demented,77.54583358764648,OAS1_0003_MR1_mpr-1_126.jpg
+Dementia,Non Demented,87.83684968948364,OAS1_0028_MR1_mpr-1_104.jpg
+Dementia,Non Demented,92.02649593353271,OAS1_0028_MR1_mpr-1_106.jpg
+Dementia,Non Demented,99.80247020721436,OAS1_0028_MR1_mpr-1_107.jpg
+Dementia,Non Demented,94.53155994415283,OAS1_0028_MR1_mpr-1_113.jpg
+Dementia,Non Demented,86.99352145195007,OAS1_0028_MR1_mpr-1_103.jpg
+Dementia,Non Demented,94.55479979515076,OAS1_0028_MR1_mpr-1_102.jpg
+Dementia,Very mild Dementia,95.73046565055847,OAS1_0028_MR1_mpr-1_100.jpg
+Dementia,Non Demented,98.58965277671814,OAS1_0028_MR1_mpr-1_114.jpg
+Dementia,Non Demented,99.91008043289185,OAS1_0028_MR1_mpr-1_115.jpg
+Dementia,Very mild Dementia,73.45049381256104,OAS1_0028_MR1_mpr-1_101.jpg
+Dementia,Very mild Dementia,64.11600708961487,OAS1_0028_MR1_mpr-1_119.jpg
+Dementia,Very mild Dementia,96.03886604309082,OAS1_0028_MR1_mpr-1_122.jpg
+Dementia,Non Demented,99.12603497505188,OAS1_0028_MR1_mpr-1_109.jpg
+Dementia,Non Demented,50.87050199508667,OAS1_0028_MR1_mpr-1_121.jpg
+Dementia,Very mild Dementia,88.47474455833435,OAS1_0028_MR1_mpr-1_120.jpg
+Dementia,Non Demented,99.90963935852051,OAS1_0028_MR1_mpr-1_108.jpg
+Non Demented,Very mild Dementia,94.33350563049316,OAS1_0001_MR1_mpr-1_117.jpg
+Non Demented,Very mild Dementia,99.80200529098511,OAS1_0001_MR1_mpr-1_116.jpg
+Non Demented,Very mild Dementia,51.389431953430176,OAS1_0001_MR1_mpr-1_128.jpg
+Non Demented,Very mild Dementia,98.88866543769836,OAS1_0001_MR1_mpr-1_100.jpg
+Non Demented,Very mild Dementia,99.27266836166382,OAS1_0001_MR1_mpr-1_114.jpg
+Non Demented,Very mild Dementia,99.98250603675842,OAS1_0001_MR1_mpr-1_115.jpg
+Non Demented,Very mild Dementia,98.35441708564758,OAS1_0001_MR1_mpr-1_129.jpg
+Non Demented,Very mild Dementia,99.88003969192505,OAS1_0001_MR1_mpr-1_139.jpg
+Non Demented,Very mild Dementia,99.99314546585083,OAS1_0001_MR1_mpr-1_138.jpg
+Non Demented,Very mild Dementia,99.13567304611206,OAS1_0001_MR1_mpr-1_112.jpg
+Non Demented,Very mild Dementia,99.91183876991272,OAS1_0001_MR1_mpr-1_113.jpg
+Non Demented,Very mild Dementia,99.91198182106018,OAS1_0001_MR1_mpr-1_141.jpg
+Non Demented,Very mild Dementia,99.76475834846497,OAS1_0001_MR1_mpr-1_140.jpg
+Non Demented,Very mild Dementia,88.23652863502502,OAS1_0001_MR1_mpr-1_142.jpg
+Non Demented,Very mild Dementia,97.44930863380432,OAS1_0001_MR1_mpr-1_143.jpg
+Non Demented,Very mild Dementia,99.86138343811035,OAS1_0001_MR1_mpr-1_147.jpg
+Non Demented,Very mild Dementia,99.80091452598572,OAS1_0001_MR1_mpr-1_146.jpg
+Non Demented,Very mild Dementia,99.77705478668213,OAS1_0001_MR1_mpr-1_144.jpg
+Non Demented,Very mild Dementia,99.98088479042053,OAS1_0001_MR1_mpr-1_145.jpg
+Non Demented,Very mild Dementia,92.13342070579529,OAS1_0001_MR1_mpr-1_136.jpg
+Non Demented,Very mild Dementia,93.7093734741211,OAS1_0001_MR1_mpr-1_122.jpg
+Non Demented,Very mild Dementia,80.95176219940186,OAS1_0001_MR1_mpr-1_123.jpg
+Non Demented,Very mild Dementia,99.98076558113098,OAS1_0001_MR1_mpr-1_137.jpg
+Non Demented,Very mild Dementia,96.43983840942383,OAS1_0001_MR1_mpr-1_121.jpg
+Non Demented,Very mild Dementia,97.21159338951111,OAS1_0001_MR1_mpr-1_135.jpg
+Non Demented,Very mild Dementia,80.54159283638,OAS1_0001_MR1_mpr-1_134.jpg
+Non Demented,Very mild Dementia,95.30612826347351,OAS1_0001_MR1_mpr-1_120.jpg
+Non Demented,Very mild Dementia,99.43549633026123,OAS1_0001_MR1_mpr-1_124.jpg
+Non Demented,Very mild Dementia,99.78464841842651,OAS1_0001_MR1_mpr-1_130.jpg
+Non Demented,Very mild Dementia,99.9270498752594,OAS1_0001_MR1_mpr-1_118.jpg
+Non Demented,Very mild Dementia,99.37379360198975,OAS1_0001_MR1_mpr-1_119.jpg
+Non Demented,Very mild Dementia,99.05518293380737,OAS1_0001_MR1_mpr-1_131.jpg
+Non Demented,Very mild Dementia,98.25185537338257,OAS1_0001_MR1_mpr-1_125.jpg
+Non Demented,Very mild Dementia,81.45591020584106,OAS1_0001_MR1_mpr-1_133.jpg
+Non Demented,Very mild Dementia,67.07280278205872,OAS1_0001_MR1_mpr-1_127.jpg
+Non Demented,Very mild Dementia,95.91962695121765,OAS1_0001_MR1_mpr-1_126.jpg
+Non Demented,Very mild Dementia,90.70082306861877,OAS1_0001_MR1_mpr-1_132.jpg
